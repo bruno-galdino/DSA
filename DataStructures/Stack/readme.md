@@ -7,7 +7,7 @@ Fiz a iplementação de pilha nas linguagens:
 - Python
 - JavaScript
 
-As ligugens C, JavaScript e Python eu tenho alguma familiariade. Rust estou aprendendo agora.
+Eu tenho alguma familiaridade com as ligugens C, JavaScript e Python. Rust estou aprendendo agora.
 
 Pretendo criar alguns exemplos de uso concreto de pilhas para melhorar meu conhecimento sobre esta estrutura de dados. Sei que elas são usadas em:
 
